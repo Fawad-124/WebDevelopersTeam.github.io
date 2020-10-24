@@ -506,7 +506,7 @@ form:hover .form-button button{
 
 
 /******************nedia Queries********************/
-@media(max-width: 768px){
+@media(max-width: 900px){
 	.nav-item{
 		text-align: center!important;
 	}
